@@ -1,3 +1,0 @@
-# torn
-
-an exclusive selfbot
